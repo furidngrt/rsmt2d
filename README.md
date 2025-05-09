@@ -27,7 +27,7 @@ A modern, professional Next.js application with TypeScript, Tailwind CSS, and be
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/rsmt2d.git
+git clone https://github.com/furidngrt/rsmt2d.git
 cd rsmt2d
 ```
 
